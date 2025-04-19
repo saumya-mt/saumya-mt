@@ -1,7 +1,7 @@
 # <div align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Saumya Mishra</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C9CCD&center=true&vCenter=true&width=435&lines=Software+Developer;Backend+Engineer;AI+%26+ML+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C9CCD&center=true&vCenter=true&width=435&lines=Software+Developer;Problem+Solver" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 About Me | [📄 Resume](https://drive.google.com/file/d/1W2ufyfrr6BKJRW2ld7IjDec_p51yd-Rp/view?usp=drive_link)
