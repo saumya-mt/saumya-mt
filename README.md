@@ -205,6 +205,34 @@ public class SoftwareDeveloper {
 
 <div align="center">
 <table>
+  <tr>
+<td style="border-radius: 10px; padding: 20px; background: linear-gradient(to right, #f6f7f8, #ffffff);">
+<h3 align="center">Streaming-Based E-Commerce Transaction Processing System</h3>
+<p align="center">
+<strong>Distributed Systems Project</strong><br>
+<em>Apr 2025 | Personal Project</em>
+</p>
+<div align="left">
+<ul style="list-style-type: none; padding-left: 0;">
+<li>⚡ Developed a scalable real-time analytics system handling 200+ e-commerce transactions per second</li>
+<li>🛠️ Integrated Spring Boot, Kafka, PostgreSQL, Redis, and Spark for efficient data ingestion, processing, and storage</li>
+<li>🚀 Reduced query latency by 40% while simulating 10M+ transactions with sub-200ms response times</li>
+</ul>
+<h4>Tech Stack</h4>
+<div align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" alt="Kafka"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis"/>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" alt="Apache Spark"/>
+</div>
+<div align="right" style="margin-top: 10px;">
+<a href="https://github.com/saumya-mt/Streaming-Based-E-Commerce-Transaction-Processing-System">View Project →</a>
+</div>
+</div>
+</td>
+</tr>
 <tr>
 <td style="border-radius: 10px; padding: 20px; background: linear-gradient(to right, #f6f7f8, #ffffff);">
 <h3 align="center">AI-Powered Accessibility Assistant</h3>
