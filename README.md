@@ -43,6 +43,202 @@ public class SoftwareDeveloper {
   <p>Check out my <a href="https://leetcode.com/mishrasaumya511" target="_blank">LeetCode profile</a> for more details!</p>
 </div>
 
+## 🚀 Featured Projects
+
+<div align="center">
+<table>
+  <tr>
+<td style="border-radius: 10px; padding: 20px; background: linear-gradient(to right, #fffbe6, #ffffff); border: 2px solid #FFD700;">
+  <h3 align="center" style="font-size: 1.6em; margin-bottom: 0.2em;">
+    🏆 <span style="color:#2C9CCD; font-weight:bold;">Shay.AI - Smart Event Networking Assistant</span>
+  </h3>
+  <p align="center" style="font-size: 1.1em; margin-top: 0; margin-bottom: 0.2em;">
+    <span style="color:#FFD700; font-weight:bold;">1st Prize, Microsoft ML/AI Hackathon</span>
+  </p>
+  <div align="center" style="margin-bottom: 0.8em;">
+    <a href="https://www.linkedin.com/posts/saumya-mishra-a85430156_hackathon-ai-opensource-activity-7319936048128503808-j3bL?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVwSQUB0puI-K9_gFg39SdKe-3WvdE_DVQ" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: middle;"/>
+      <span style="font-size:0.95em; color:#0A66C2; font-weight:normal;">See LinkedIn post</span>
+    </a>
+  </div>
+  <div align="left">
+  <ul style="list-style-type: none; padding-left: 0;">
+  <li>🤖 Built an intelligent networking assistant that connects people through events using AI-powered matching</li>
+  <li>🏆 Won <strong>1st Prize</strong> at the Microsoft ML/AI Hackathon</li>
+  <li>🔍 Integrated with Luma, Meetup, and LinkedIn APIs for comprehensive profile aggregation and analysis</li>
+  <li>💡 Implemented NLP-powered insights and personalized recommendations for meaningful connections</li>
+  </ul>
+  <h4>Tech Stack</h4>
+  <div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+  </div>
+  <div align="right" style="margin-top: 10px;">
+  <a href="https://github.com/saumya-mt/shay.ai">View Project →</a>
+  </div>
+  </div>
+</td>
+</tr>
+<tr>
+<td style="border-radius: 10px; padding: 20px; background: linear-gradient(to right, #f6f7f8, #ffffff);">
+<h3 align="center">Emotional Journey Tracker</h3>
+<p align="center">
+<strong>AI/ML Project</strong><br>
+<em>Jan 2024 - Present | Personal</em>
+</p>
+<div align="left">
+<ul style="list-style-type: none; padding-left: 0;">
+<li>🎭 Developed an innovative platform combining emotion detection, storytelling, and social features using AI</li>
+<li>🤖 Achieved 95% accuracy in emotion detection using DeepFace CNN and GPT for story generation</li>
+<li>🔊 Implemented Azure Text-to-Speech for dynamic voice synthesis and emotional journey analytics</li>
+</ul>
+<h4>Tech Stack</h4>
+<div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+</div>
+<div align="right" style="margin-top: 10px;">
+<a href="https://github.com/saumya-mt/emotional-journey-tracker">View Project →</a>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="border-radius: 10px; padding: 20px; background: linear-gradient(to right, #f6f7f8, #ffffff);">
+<h3 align="center">ML-Powered Logistics Optimizer</h3>
+<p align="center">
+<strong>ML Project</strong><br>
+<em>Dec 2023 - Present | Research</em>
+</p>
+<div align="left">
+<ul style="list-style-type: none; padding-left: 0;">
+<li>🌐 Solved last-mile delivery optimization using advanced ML algorithms, reducing delivery times by 25%</li>
+<li>⚡ Implemented dynamic route recalculation based on real-time traffic and weather conditions</li>
+<li>📊 Achieved 15% reduction in fuel consumption through predictive analytics and route optimization</li>
+</ul>
+<h4>Tech Stack</h4>
+<div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=scikit-learn&logoColor=white" alt="ML"/>
+</div>
+<div align="right" style="margin-top: 10px;">
+<a href="https://github.com/saumya-mt/ai-strategy-and-routing">View Project →</a>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="border-radius: 10px; padding: 20px; background: linear-gradient(to right, #f6f7f8, #ffffff);">
+<h3 align="center">AI-Powered Accessibility Assistant</h3>
+<p align="center">
+<strong>Research Project</strong><br>
+<em>Mar 2025 - Present | Remote</em>
+</p>
+<div align="left">
+<ul style="list-style-type: none; padding-left: 0;">
+<li>🤖 Developed a real-time vision-to-audio system enabling visually impaired users to navigate and interact with their environment</li>
+<li>🎯 Integrated LLaMA and Vision Transformer to achieve 85% accuracy in complex scene descriptions with only 300ms latency</li>
+<li>⚡ Enhanced mobile performance by 30% through ONNX quantization and CoreML optimization for Snapdragon platforms</li>
+</ul>
+<h4>Tech Stack</h4>
+<div align="center">
+<img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" alt="Swift"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/LLaMA-FF6F00?style=flat&logo=llama&logoColor=white" alt="LLaMA"/>
+</div>
+<div align="right" style="margin-top: 10px;">
+<a href="https://github.com/saumya-mt/snapdragon-ai-captioning">View Project →</a>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="border-radius: 10px; padding: 20px; background: linear-gradient(to right, #f6f7f8, #ffffff);">
+<h3 align="center">Streaming-Based E-Commerce Transaction Processing System</h3>
+<p align="center">
+<strong>Distributed Systems Project</strong><br>
+<em>Apr 2025 | Personal Project</em>
+</p>
+<div align="left">
+<ul style="list-style-type: none; padding-left: 0;">
+<li>⚡ Developed a scalable real-time analytics system handling 200+ e-commerce transactions per second</li>
+<li>🛠️ Integrated Spring Boot, Kafka, PostgreSQL, Redis, and Spark for efficient data ingestion, processing, and storage</li>
+<li>🚀 Reduced query latency by 40% while simulating 10M+ transactions with sub-200ms response times</li>
+</ul>
+<h4>Tech Stack</h4>
+<div align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" alt="Kafka"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis"/>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" alt="Apache Spark"/>
+</div>
+<div align="right" style="margin-top: 10px;">
+<a href="https://github.com/saumya-mt/Streaming-Based-E-Commerce-Transaction-Processing-System">View Project →</a>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="border-radius: 10px; padding: 20px; background: linear-gradient(to right, #f6f7f8, #ffffff);">
+<h3 align="center">Enterprise Design Patterns Library</h3>
+<p align="center">
+<strong>Open Source Project</strong><br>
+<em>Jan 2024 - Present | Personal</em>
+</p>
+<div align="left">
+<ul style="list-style-type: none; padding-left: 0;">
+<li>📚 Created a production-ready implementation of 23 GoF patterns to solve common enterprise architectural challenges</li>
+<li>🔧 Demonstrated pattern applications in microservices, event-driven systems, and distributed computing</li>
+<li>✅ Built comprehensive test suites and documentation to guide developers in selecting optimal patterns</li>
+</ul>
+<h4>Tech Stack</h4>
+<div align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white" alt="JUnit"/>
+<img src="https://img.shields.io/badge/Design_Patterns-FF6F00?style=flat&logo=java&logoColor=white" alt="Design Patterns"/>
+</div>
+<div align="right" style="margin-top: 10px;">
+<a href="https://github.com/saumya-mt/java-design-pattern-implementation">View Project →</a>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="border-radius: 10px; padding: 20px; background: linear-gradient(to right, #f6f7f8, #ffffff);">
+<h3 align="center">TypeScript Event Management System</h3>
+<p align="center">
+<strong>Technical Challenge</strong><br>
+<em>Feb 2024 | Project</em>
+</p>
+<div align="left">
+<ul style="list-style-type: none; padding-left: 0;">
+<li>🎯 Engineered a scalable RSVP system handling concurrent user responses with optimized performance</li>
+<li>✨ Implemented domain-driven design with clean architecture principles for maintainable code</li>
+<li>✅ Achieved 100% test coverage using Jest, with comprehensive integration and unit tests</li>
+</ul>
+<h4>Tech Stack</h4>
+<div align="center">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest"/>
+<img src="https://img.shields.io/badge/Clean_Code-00ACC1?style=flat&logo=javascript&logoColor=white" alt="Clean Code"/>
+</div>
+<div align="right" style="margin-top: 10px;">
+<a href="https://github.com/saumya-mt/Coding-Challenge">View Project →</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
 ## 🛠️ Tech Stack
 <div align="left">
   <h3>Languages & Frameworks</h3>
@@ -199,199 +395,6 @@ public class SoftwareDeveloper {
       </td>
     </tr>
   </table>
-</div>
-
-## 🚀 Featured Projects
-
-<div align="center">
-<table>
-  <tr>
-<td style="border-radius: 10px; padding: 20px; background: linear-gradient(to right, #f6f7f8, #ffffff);">
-<h3 align="center">Streaming-Based E-Commerce Transaction Processing System</h3>
-<p align="center">
-<strong>Distributed Systems Project</strong><br>
-<em>Apr 2025 | Personal Project</em>
-</p>
-<div align="left">
-<ul style="list-style-type: none; padding-left: 0;">
-<li>⚡ Developed a scalable real-time analytics system handling 200+ e-commerce transactions per second</li>
-<li>🛠️ Integrated Spring Boot, Kafka, PostgreSQL, Redis, and Spark for efficient data ingestion, processing, and storage</li>
-<li>🚀 Reduced query latency by 40% while simulating 10M+ transactions with sub-200ms response times</li>
-</ul>
-<h4>Tech Stack</h4>
-<div align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" alt="Kafka"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis"/>
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" alt="Apache Spark"/>
-</div>
-<div align="right" style="margin-top: 10px;">
-<a href="https://github.com/saumya-mt/Streaming-Based-E-Commerce-Transaction-Processing-System">View Project →</a>
-</div>
-</div>
-</td>
-</tr>
-<tr>
-<td style="border-radius: 10px; padding: 20px; background: linear-gradient(to right, #f6f7f8, #ffffff);">
-<h3 align="center">AI-Powered Accessibility Assistant</h3>
-<p align="center">
-<strong>Research Project</strong><br>
-<em>Mar 2025 - Present | Remote</em>
-</p>
-<div align="left">
-<ul style="list-style-type: none; padding-left: 0;">
-<li>🤖 Developed a real-time vision-to-audio system enabling visually impaired users to navigate and interact with their environment</li>
-<li>🎯 Integrated LLaMA and Vision Transformer to achieve 85% accuracy in complex scene descriptions with only 300ms latency</li>
-<li>⚡ Enhanced mobile performance by 30% through ONNX quantization and CoreML optimization for Snapdragon platforms</li>
-</ul>
-<h4>Tech Stack</h4>
-<div align="center">
-<img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" alt="Swift"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/LLaMA-FF6F00?style=flat&logo=llama&logoColor=white" alt="LLaMA"/>
-</div>
-<div align="right" style="margin-top: 10px;">
-<a href="https://github.com/saumya-mt/snapdragon-ai-captioning">View Project →</a>
-</div>
-</div>
-</td>
-</tr>
-
-<tr>
-<td style="border-radius: 10px; padding: 20px; background: linear-gradient(to right, #f6f7f8, #ffffff);">
-<h3 align="center">Enterprise Design Patterns Library</h3>
-<p align="center">
-<strong>Open Source Project</strong><br>
-<em>Jan 2024 - Present | Personal</em>
-</p>
-<div align="left">
-<ul style="list-style-type: none; padding-left: 0;">
-<li>📚 Created a production-ready implementation of 23 GoF patterns to solve common enterprise architectural challenges</li>
-<li>🔧 Demonstrated pattern applications in microservices, event-driven systems, and distributed computing</li>
-<li>✅ Built comprehensive test suites and documentation to guide developers in selecting optimal patterns</li>
-</ul>
-<h4>Tech Stack</h4>
-<div align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white" alt="JUnit"/>
-<img src="https://img.shields.io/badge/Design_Patterns-FF6F00?style=flat&logo=java&logoColor=white" alt="Design Patterns"/>
-</div>
-<div align="right" style="margin-top: 10px;">
-<a href="https://github.com/saumya-mt/java-design-pattern-implementation">View Project →</a>
-</div>
-</div>
-</td>
-</tr>
-
-<tr>
-<td style="border-radius: 10px; padding: 20px; background: linear-gradient(to right, #f6f7f8, #ffffff);">
-<h3 align="center">ML-Powered Logistics Optimizer</h3>
-<p align="center">
-<strong>ML Project</strong><br>
-<em>Dec 2023 - Present | Research</em>
-</p>
-<div align="left">
-<ul style="list-style-type: none; padding-left: 0;">
-<li>🌐 Solved last-mile delivery optimization using advanced ML algorithms, reducing delivery times by 25%</li>
-<li>⚡ Implemented dynamic route recalculation based on real-time traffic and weather conditions</li>
-<li>📊 Achieved 15% reduction in fuel consumption through predictive analytics and route optimization</li>
-</ul>
-<h4>Tech Stack</h4>
-<div align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter"/>
-<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=scikit-learn&logoColor=white" alt="ML"/>
-</div>
-<div align="right" style="margin-top: 10px;">
-<a href="https://github.com/saumya-mt/ai-strategy-and-routing">View Project →</a>
-</div>
-</div>
-</td>
-</tr>
-
-<tr>
-<td style="border-radius: 10px; padding: 20px; background: linear-gradient(to right, #f6f7f8, #ffffff);">
-<h3 align="center">TypeScript Event Management System</h3>
-<p align="center">
-<strong>Technical Challenge</strong><br>
-<em>Feb 2024 | Project</em>
-</p>
-<div align="left">
-<ul style="list-style-type: none; padding-left: 0;">
-<li>🎯 Engineered a scalable RSVP system handling concurrent user responses with optimized performance</li>
-<li>✨ Implemented domain-driven design with clean architecture principles for maintainable code</li>
-<li>✅ Achieved 100% test coverage using Jest, with comprehensive integration and unit tests</li>
-</ul>
-<h4>Tech Stack</h4>
-<div align="center">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest"/>
-<img src="https://img.shields.io/badge/Clean_Code-00ACC1?style=flat&logo=javascript&logoColor=white" alt="Clean Code"/>
-</div>
-<div align="right" style="margin-top: 10px;">
-<a href="https://github.com/saumya-mt/Coding-Challenge">View Project →</a>
-</div>
-</div>
-</td>
-</tr>
-
-<tr>
-<td style="border-radius: 10px; padding: 20px; background: linear-gradient(to right, #f6f7f8, #ffffff);">
-<h3 align="center">Shay.AI - Smart Event Networking Assistant</h3>
-<p align="center">
-<strong>Full Stack AI Project</strong><br>
-<em>Feb 2024 - Present | Personal</em>
-</p>
-<div align="left">
-<ul style="list-style-type: none; padding-left: 0;">
-<li>🤖 Built an intelligent networking assistant that connects people through events using AI-powered matching</li>
-<li>🔍 Integrated with Luma, Meetup, and LinkedIn APIs for comprehensive profile aggregation and analysis</li>
-<li>💡 Implemented NLP-powered insights and personalized recommendations for meaningful connections</li>
-</ul>
-<h4>Tech Stack</h4>
-<div align="center">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-</div>
-<div align="right" style="margin-top: 10px;">
-<a href="https://github.com/saumya-mt/shay.ai">View Project →</a>
-</div>
-</div>
-</td>
-</tr>
-
-<tr>
-<td style="border-radius: 10px; padding: 20px; background: linear-gradient(to right, #f6f7f8, #ffffff);">
-<h3 align="center">Emotional Journey Tracker</h3>
-<p align="center">
-<strong>AI/ML Project</strong><br>
-<em>Jan 2024 - Present | Personal</em>
-</p>
-<div align="left">
-<ul style="list-style-type: none; padding-left: 0;">
-<li>🎭 Developed an innovative platform combining emotion detection, storytelling, and social features using AI</li>
-<li>🤖 Achieved 95% accuracy in emotion detection using DeepFace CNN and GPT for story generation</li>
-<li>🔊 Implemented Azure Text-to-Speech for dynamic voice synthesis and emotional journey analytics</li>
-</ul>
-<h4>Tech Stack</h4>
-<div align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-</div>
-<div align="right" style="margin-top: 10px;">
-<a href="https://github.com/saumya-mt/emotional-journey-tracker">View Project →</a>
-</div>
-</div>
-</td>
-</tr>
-</table>
 </div>
 
 ## 🔗 Connect With Me
