@@ -8,7 +8,7 @@
 ```java
 public class SoftwareDeveloper {
     private final String name = "Saumya Mishra";
-    private final String location = "Bellevue, WA";
+    private final String location = "Seattle, WA";
     private final String email = "mishra.sau@northeastern.edu";
     
     private final String[] expertise = {
@@ -17,14 +17,13 @@ public class SoftwareDeveloper {
         "Distributed Systems",
         "Software Testing",
         "Cloud Computing",
-        "Performance Engineering"
     };
     
     private final Map<String, String[]> techStack = Map.of(
-        "Languages", new String[]{"Java", "Python", "Swift"},
+        "Languages", new String[]{"Java", "Python"},
         "Backend", new String[]{"Spring Boot", "Apache Kafka", "PostgreSQL", "Redis"},
-        "AI/ML", new String[]{"PyTorch", "TensorFlow", "Hugging Face", "LLaMA", "ViT"},
-        "DevOps", new String[]{"AWS", "Docker", "Kubernetes", "Jenkins", "OCI"},
+        "AI/ML", new String[]{"PyTorch", "TensorFlow", "Transformers", "Langchain"},
+        "DevOps", new String[]{"AWS", "Docker", "Kubernetes"}
         "Testing", new String[]{"Selenium", "JMeter", "Appium", "JUnit", "TestNG"}
     );
 
