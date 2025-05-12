@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C9CCD&center=true&vCenter=true&width=435&lines=Software+Developer;Problem+Solver" alt="Typing SVG" />
 </div>
 
-## 👨‍💻 About Me | [📄 Resume](https://drive.google.com/file/d/1pOLEcCH9ip0VTEvwy7GPI_0oJB2MPZuZ/view?usp=drive_link)
+## 👨‍💻 About Me | [📄 Resume](https://drive.google.com/file/d/1bxHFQhlsV9Tydili_d5gLrMb1N18zW_d/view?usp=drive_link)
 ```java
 public class SoftwareDeveloper {
     private final String name = "Saumya Mishra";
